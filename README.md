@@ -1,22 +1,26 @@
-📝 QuizApp – Simple Java Swing Quiz Application
+# 📝 QuizApp – Simple Java Swing Quiz Application
 
-A simple desktop quiz application built with Java Swing.
-This app allows users to attempt multiple-choice questions, keeps track of score, and includes a countdown timer.
+A **simple desktop quiz application** built using **Java Swing**.  
+This app allows users to attempt multiple-choice questions, tracks their score, and includes a built-in countdown timer for automatic submission.
 
-🚀 Features
+---
 
-🎯 Multiple-choice questions with 4 options each
+## 🚀 Features
 
-⏳ Countdown timer (5 minutes) – quiz auto-submits when time ends
+- 🎯 **Multiple-choice questions** (4 options each)  
+- ⏳ **Countdown timer (5 minutes)** – quiz auto-submits when time ends  
+- 📝 **Score calculation** displayed at the end  
+- ⚡ **Clean and minimal UI** built with Java Swing components  
+- 📋 **Easily customizable** – add or modify questions effortlessly  
 
-📝 Score calculation at the end
+---
 
-⚡ Clean and minimal UI built using Java Swing
+## 🛠️ Tech Stack
 
-📋 Easy to customize (add more questions and options)
+| Component | Description |
+|------------|-------------|
+| 💻 **Language** | Java |
+| 🪟 **GUI Framework** | Swing (`JFrame`, `JLabel`, `JRadioButton`, `JButton`, `Timer`) |
 
-🛠️ Tech Stack
-
-- Language: Java
-
-- GUI: Swing (JFrame, JLabel, JRadioButton, JButton, Timer)
+   ```bash
+   git clone https://github.com/yourusername/QuizApp.git
